@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Santos-Luis)](https://github.com/LordDashMe/github-contribution-stats/)
-
