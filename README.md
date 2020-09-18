@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Santos-luis&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Santos-luis&show_icons=true&theme=nord&include_all_commits=true&hide=stars,issues&count_private=true)
 
 <!--START_SECTION:waka-->
 
