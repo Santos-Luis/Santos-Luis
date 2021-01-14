@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-I am Luis, a Software Engineer. Currently I am doing backend projects in **Symfony** (PHP), **NodeJS** and sometimes in **Golang**. I am also doing some frontend projects using mostly **ReactJS** and **GatsbyJS** but also **EmberJS**.
+I am Luis, a Software Engineer at [Pipedrive](https://www.pipedrive.com/). My experience in mainly in backend, where I do projects in **NodeJS**, **Symfony** (PHP), and sometimes in **Golang**. I am also doing some frontend projects using mostly **ReactJS** and **GatsbyJS** but also **EmberJS**.
 
 Besides writing the services code I am often involved in the creation of the infrastructure and deployment process. Most of my experience in this area is connected to **AWS** services.
 
