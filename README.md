@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+### Hi there 👋 
 
 I am Luis, a Software Engineer at [Pipedrive](https://www.pipedrive.com/). My experience in mainly in backend, where I do projects in **NodeJS**, **Symfony** (PHP), and sometimes in **Golang**. I also work(ed) in some frontend projects using mostly **ReactJS** and **GatsbyJS** but also **EmberJS**.
 
