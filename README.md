@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-I am Luis, a Software Engineer at [Pipedrive](https://www.pipedrive.com/). My experience in mainly in backend, where I do projects in **NodeJS**, **Symfony** (PHP), and sometimes in **Golang**. I also work(ed) in some frontend projects using mostly **ReactJS** and **GatsbyJS** but also **EmberJS**.
+I'm Luis, a Senior Software Engineer at [Pipedrive](https://www.pipedrive.com/). I specialize in backend development, working primarily with **TypeScript**, **PHP**, and occasionally **Golang**. In addition to my backend work, I actively contribute to frontend projects using **ReactJS**, **GatsbyJS**, and **EmberJS**.
 
-Besides writing the services code, I am involved in the creation of the infrastructure and deployment process. Most of my experience in this area is connected to **AWS** services and **Github Actions**.
+Beyond writing code, I have been involved in creating infrastructure and managing deployment processes, particularly for personal projects and past professional experiences. My expertise in this area includes extensive use of **AWS** services and **GitHub Actions**.
 
 <!--
 **Santos-Luis/Santos-Luis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
